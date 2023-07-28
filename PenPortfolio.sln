@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PenPortfolio", "PenPortfolio.csproj", "{EFFB40E0-ADFC-4F7E-BEA6-31460B73EA1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFB40E0-ADFC-4F7E-BEA6-31460B73EA1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFB40E0-ADFC-4F7E-BEA6-31460B73EA1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFB40E0-ADFC-4F7E-BEA6-31460B73EA1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFB40E0-ADFC-4F7E-BEA6-31460B73EA1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45
+		SolutionGuid = {C9A3135D-18E2-4025-95C0-84983D0768FD}
+	EndGlobalSection
+EndGlobal
